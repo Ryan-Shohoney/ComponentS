@@ -1,0 +1,23 @@
+{
+  "name": "ComponentS",
+  "version": "0.0.1",
+  "description": "A light-weight library designed to leverage existing web technologies, and maximize HTTP2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Shohoney",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/plugin-transform-modules-systemjs": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0-beta.2",
+    "systemjs": "^6.3.1",
+    "tailwindcss": "^1.2.0"
+  }
+}
